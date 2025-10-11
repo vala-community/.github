@@ -22,3 +22,11 @@ If you have suggestions for projects to add tho the library, submit them via the
 - Suggest projects to add in [Discussions](https://github.com/orgs/vala-community/discussions)
 - Submit issues to projects
 - Feel free to submit pull requests with bug fixes, general improvements or new features! (You can check out issues of the repositories in the organisation if you need ideas of what to work on!)
+
+## Currently hosted
+
+Here are a couple projects you can find here:
+
+- [Fridge](https://github.com/vala-community/libfridge): a simple and comprehensive storage library to keep your app's data fresh
+- [Vala-MPRIS](https://github.com/vala-community/vala-mpris): a WIP MPRIS library
+- You can help expand this list!
